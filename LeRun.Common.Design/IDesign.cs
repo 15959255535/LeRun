@@ -1,6 +1,6 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: Administrator
+ * User: HT先生
  * Date: 2016/4/9
  * Time: 15:24
  * 
@@ -25,9 +25,13 @@ namespace LeRun.Common.Design
 		string FieldName{get;}
 	}
 	
+	/// <summary>数据字段定义</summary>
 	public interface IDataFieldDesign:IFieldDesign
 	{
-		
+		/// <summary>数据类型</summary>
+		LRDataType DataType{get;}
+		/// <summary>字段类型</summary>
+		LRFieldKind FieldKind{get;}
 	}
 	
 	/// <summary>表定义接口</summary>

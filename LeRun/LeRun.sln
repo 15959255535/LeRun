@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeRun.BLL.OA", "..\LeRun.BL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeRun.UCO.OA", "..\LeRun.UCO.OA\LeRun.UCO.OA.csproj", "{874BABFA-18F8-4E3D-8F12-A950DE8D589D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeRun.Common.Design", "..\LeRun.Common.Model\LeRun.Common.Design.csproj", "{3E50395B-D1B9-4D5B-A551-20827A3642C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeRun.Common.Design", "..\LeRun.Common.Design\LeRun.Common.Design.csproj", "{3E50395B-D1B9-4D5B-A551-20827A3642C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
