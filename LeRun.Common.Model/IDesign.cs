@@ -9,7 +9,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace LeRun.Common.Model
+namespace LeRun.Common.Design
 {
 	/// <summary>模型定义基接口</summary>
 	public interface IDesignBase

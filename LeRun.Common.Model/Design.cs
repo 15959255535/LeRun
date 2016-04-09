@@ -8,15 +8,6 @@
  */
 using System;
 
-namespace LeRun.Common.Model
+namespace LeRun.Common.Design
 {
-	/// <summary>
-	/// Description of Model.
-	/// </summary>
-	public class Model
-	{
-		public Model()
-		{
-		}
-	}
 }

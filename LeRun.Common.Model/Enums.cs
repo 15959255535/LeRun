@@ -8,7 +8,7 @@
  */
 using System;
 
-namespace LeRun.Common.Model
+namespace LeRun.Common.Design
 {
 	/// <summary>数据类型</summary>
 	public enum LRDataType
